@@ -1,0 +1,927 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The excellent and renowned history of the famous Sir Richard Whittington three times lord-mayor of the honourable City of London. Giving an account of all the remarkable and noted passages of his life. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39006</idno>
+            <idno type="STC">Wing E3780A</idno>
+            <idno type="STC">ESTC R217361</idno>
+            <idno type="EEBO-CITATION">99829032</idno>
+            <idno type="PROQUEST">99829032</idno>
+            <idno type="VID">33467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1986:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The excellent and renowned history of the famous Sir Richard Whittington three times lord-mayor of the honourable City of London. Giving an account of all the remarkable and noted passages of his life. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>published by J. Conyers,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Title page and final page woodcuts.</note>
+                  <note>Imperfect; cropped at foot with loss of imprint; imprint from Wing.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whittington, Richard, d. 1423 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33467:1" rendition="simple:additions"/>
+            <p>The Excellent and Renowned HISTORY Of the Famous Sir <hi>Richard Whittington,</hi> Three times Lord-Mayor of the Honoura<g ref="char:EOLhyphen"/>ble City of <hi>LONDON.</hi>
+            </p>
+            <p>Giving an Account of all the Remarkable and noted Paſſages of his Life.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>This may be Printed,</p>
+                        <closer>
+                           <signed>R. P.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <figDesc>depiction of incidents from the Legend of Dick Whittington</figDesc>
+               <figure>
+                  <figDesc>depiction of Dick Whittington's cat at the court of the King of Barbary</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Mr. Fitz-warren's ship</figDesc>
+               </figure>
+               <figure>
+                  <sp>
+                     <p>Mew</p>
+                  </sp>
+                  <figDesc>depiction of Dick Whittington's cat</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Dick Whittington, Lord Mayor of London on horseback</figDesc>
+               </figure>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33467:2"/>
+            <pb n="3" facs="tcp:33467:2" rendition="simple:additions"/>
+            <head>The Excellent and Re<g ref="char:EOLhyphen"/>nowned Hiſtory of the Fa<g ref="char:EOLhyphen"/>mous Sir <hi>Richard Whittington.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow <hi>Richard Whittingon</hi> came to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and being almoſt ſtarved, was taken by a Merchant into his Houſe.</head>
+               <p>THat there is ſomething more than or<g ref="char:EOLhyphen"/>dinary, in the Fares and Fortunes of Men, relating to Adverſity and <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſperity; is wonderfully evident by the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or ſinking of ſome in the World, who <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their utmoſt labour, induſtry and dili<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ce, to prevent it: and the riſe of others <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> neither ſtrive for it, or in the leaſt ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> it. And one of this Fortunate Ones <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Perſon, whoſe unexpected advance<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ts and great increaſe of Riches, <hi>&amp;c.</hi> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s this Relation, to whoſe ſtory I <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> proceed.</p>
+               <pb n="4" facs="tcp:33467:3"/>
+               <p>
+                  <hi>Richard Whittington,</hi> born of obſc<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Parents, ſo that the certain place of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Birth is unkown; being in his Child<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> caſt out to a deſperate Fortune, he wan<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> for a conſiderable time, about the Cou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> but finding no imployment whereby he c<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſubſiſt, he reſolved for <hi>London:</hi> where, <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ter many weary ſteps, he arrived; but <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> there a ſtranger, and altogether friendle<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he did little but wander up and down <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtreets for the ſpace of two days. But <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the third, being tired and faint for want food, he laid himſelf down at the door of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rich Merchant, to bemoan his preſent <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>happy condition: which he had ſcarcely d<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> before the Merchant came out to go to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Exchange,</hi> and finding him there, began <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> chide and threaten him as a lazy Pi<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> and a Loyterer; telling him that ſuc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> able Fellow, as he appeared to be, ought <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> taking upon him ſuch an idle courſe of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be ſent to the Stocks or Whipping-p<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> But his Replies being modeſt and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>affirming that he would refuſe no La<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> he was capable of performing, if he c<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> find a Maſter by whom he might be ſu<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed with Victuals to eaſe his Hunger, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cloaths to cover his Nakedneſs: <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> made ſuch a viſible Relation, of the <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ing
+<pb n="5" facs="tcp:33467:3" rendition="simple:additions"/> and periſhing condition he was in; <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t the Merchant, whoſe name was <hi>Hugh <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> warren,</hi> who was naturally compaſſio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> melting at the ſtory, changed his Paſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to mildneſs; and calling one of his <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ts, ordered him to take in that ſtran<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, and ſupply his wants with proviſion<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> withal, not to diſmiſs him till his Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>. And ſo proceeded to look after his Af<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> abroad.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mrs. <hi>Alice,</hi> the Merchant's Daught<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r procured his being taken into Ser<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce, and of the hard uſage he received him the Cook-Maid, how he purcha<g ref="char:EOLhyphen"/>ſed his Cat and ſent her for a Venture.</head>
+               <p>
+                  <hi>WHittington</hi> being taken out of the pinching cold to a warm fire, and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed with proviſion to his content; did <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a little inwardly rejoyce at this begin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> of good luck: But whilſt his thoughts <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> imployed many ways, and buſied in an<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ng the many Queſtions the Servants <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him, in relation to his Birth, Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Travels<g ref="char:punc">▪</g> fair Mrs. <hi>Alice</hi> the Mer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>s only Daughter, upon notice a ſtran<g ref="char:EOLhyphen"/>ger
+<pb n="6" facs="tcp:33467:4"/> was ordered by her Father to be <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tained, came out of curioſity to ſee him: <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on ſight of whom (his colour and Comp<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>on being by this time pretty well reco<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> ſhe was not a little pleaſed, &amp; the more <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by his modeſt, though ſutable, Anſw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> her Queſtions, ſhe found him Witt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ingenious, beyond what his habit o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ward form could reaſonably promiſe: <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hearing her Father was returned and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> upon the Board, ſhe left him to dine with Servants: Yet ſo far he ran in her <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that although her Father, through the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Buſineſs, had, in a manner, forg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t he had cauſed him to be entertained, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him in mind of him, and ſo prevailed; <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhe, upon urging that he might be ſervic<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the Kitchen, going of Errands, clea<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> of Shoes and Boots, <hi>&amp;c.</hi> procured him be liſted or entertained in the Family: <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in conſideration a Lodging was want<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhe further pleaded, that allowing <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> homely Bed, the Garret, that lay uſel<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> and unimployed, might afford him a c<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>niency. And thereupon, all ſcruples of th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> kind, being removed, he joyfully <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> upon his new Service; as not doubting <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> give content for the meat, drink and cl<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> which he only expected to be the Reward
+<pb n="7" facs="tcp:33467:4" rendition="simple:additions"/> h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Labour and diligence: but being moſt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> put to drudge in the Kitchen, the Cook-<gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, under whom he ſerved in the nature of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Scullion, being of a cruel and froward <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>per, uſed her Authority beyond the Rule <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Reaſon or Humanity, by not only rating <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> frequently ſcolding at him, though he was no ways remiſs in performing what <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er was injoyned him; but upon the leaſt <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ous occaſion, and frequently, without <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cauſe, would lay on him unmercifully <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h the Spit, Tongues, Ladle or what <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me next to hand; and the rather ſhe uſed <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is Cruelty, becauſe ſhe found him ſo good <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tured as not to complain of his hard V<g ref="char:EOLhyphen"/>ſage; being reſolved if poſſible, to over<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me Perverſeneſs with Patience. Du<g ref="char:EOLhyphen"/>ring which ſuffering of his, it ſo happened, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> through his diligence had gained the good<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll of all the Family beſide, and eſpecially <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fair <hi>Mrs. Alice.</hi> But now another trou<g ref="char:EOLhyphen"/>ble happened, the Garret wherein he lay, by <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon of its long unfrequentedneſs, being <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>edingly peſtered with Rats and Mice; <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his quiet was moleſted in the day by the <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k-maid, ſo they did the like in the night, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> running over his Face and frequently <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>aking to the diſturbance of his Repoſe, which obliged him to conſider ſome way to
+<pb n="8" facs="tcp:33467:5"/> deſtroy them: and thereupon he conclu<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to purchaſe a Car with a penny that he <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> got for cleaning a pair of Boots for a G<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tleman who accidentally lodged in his m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſters Houſe. How it ſo happened that th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> generous Merchant, whom he ſerved, nev<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſent any Ship to Sea, but he cauſed t<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> one of his Family, as well Servants <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> others, to ſend ſome part of their prope<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Goods as an Adventure, for which they <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to have their reſpective Returns, Fraig<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> free. And now being about to ſet out th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> proſperous Ship called the <hi>Unicorne;</hi> he ca<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>led his Daughter and Servants to delive<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Adventures to his Factor, who accor<g ref="char:EOLunhyphen"/>dingly came, <hi>Whittington</hi> excepted, ea<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> according to his or her Ability, deliverin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſomething valuable. At what time <hi>Whit<g ref="char:EOLunhyphen"/>tington</hi> came into remembrance, and bein<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> called, the Merchant told him the cuſtome<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and demanded what he had that he could ca<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> properly his own to ſend as an adventure To which he replyed, his Poverty rendere<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him uncapable of any thing in that nature<g ref="char:punc">▪</g> Whereupon, fair Mrs. <hi>Alice</hi> drew out he<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Purſe and offered to lay down moneys fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him; but her Father would except nothin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but what was his proper Goods; and aga<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> demanded if he had nothing that he coul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:33467:5" rendition="simple:additions"/> properly call his own: to which the poor <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> replyed, with a ſigh, that he had nothing could rightly call ſo, unleſs his Cloaths <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a Cat which he had purchaſed with a <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ny; the latter of which, the Merchant <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ered him inſtantly to fetch, which he with <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unwillingneſs and almoſt with tears, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as being loath to part with what was <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſerviceable to him. And now their Ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ture being delivered to the Factor, he <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cryed them aboard the good Ship the <hi>U<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>corne,</hi> which was fallen down to <hi>Black<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>all;</hi> and ſoon after ſet ſail upon the intend<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Voyage.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow <hi>Whittington,</hi> by reaſon of his hard Uſage, attempting to run away, was brought back by the ringing of <hi>Bow</hi> Bells; and of the great Riches he recei<g ref="char:EOLhyphen"/>ved for the Adventure of his Cat, and how it came to paſs.</head>
+               <p>
+                  <hi>WHittington</hi> being ſtill in Mr. <hi>Fitz<g ref="char:EOLhyphen"/>warren</hi>'s houſe, under the unperi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> Cook-maid; and ſhe finding her power <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him, uſed it with ſuch rigour, that it <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him, in a manner, weary of his Life:
+<pb n="10" facs="tcp:33467:6"/> which put him upon purpoſe of runnin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> way; and in order thereto, early in the <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ning on <hi>St. Allhallows</hi>-day, he packed <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his cloaths and went as far as <hi>Bun hill</hi>-<gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> where, it being yet ſcarce day, he ſate <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> down to conſider whether or to what plac<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould go; and to bewail his unhappy <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> uneaſie Condition: when, to his think<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> he heard the Bells at <hi>Bow</hi>-Church <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Cheap-ſide,</hi> in their tuning expreſs th<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Words; <hi>viz.</hi>
+                  <q>
+                     <lg>
+                        <l>Turn again <hi>Whittington</hi>
+                        </l>
+                        <l>Thrice Lord Mayor of <hi>London.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Turn again <hi>Whittington</hi>
+                        </l>
+                        <l>Thrice Lord Mayor of <hi>London.</hi>
+                        </l>
+                     </lg>
+                  </q>
+               </p>
+               <p>This made ſo deep an impreſſion in h<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> mind, that it quite altered his former <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>termination and made him reſolve upon r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>turning again to his Service; which <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> accordingly did, e'er he was miſſed by any <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Family: where we muſt leave him <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a while to follow his drudgery, and bear p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tiently the Cook-maids Doggedneſs <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cruelty, to follow the Ship; which, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this time, was toſſing in a fearful <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> upon the Ocean.</p>
+               <pb n="11" facs="tcp:33467:6"/>
+               <p>The good Ship the <hi>Unicorne</hi> being dri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> by Storms and Tempeſts, through <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>y dangerous Seas, not without great <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>zard of being Caſt away; arrived at laſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Coaſt of <hi>Barbary</hi> or the Golden <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, then unknown and un-navigated by <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Chriſtians; and there expoſing their <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s to the view of the Moors, who flock<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to the ſhore to admire them. It was <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t long before the news was carried to the King of the Country, who ſent one of his Lords to bring the Maſter and Factor to Court; and with them ſome of every Com<g ref="char:EOLhyphen"/>modity they had to expoſe to Sale: which ſo highly pleaſed him, that he commanded they ſhould be feaſted at his own Table in his Royal Palace; bargaining before-hand for their whole Ships Cargo.</p>
+               <p>Now ſo it happened, that whilſt they were <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing on Carpets ſpread on the Pavement, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Mooriſh faſhion is, the ſmell of the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>inties, which were their preſent, drew <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>her ſuch a multitude of Rats and Mice, <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t they, in a manner, covered the Table <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>twithſtanding the diligence the Servants <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed to drive them away; which made the Maſter inquire of one of the Noble-men <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t ſat by him, whether they cheriſhed that ſort of Vermin for increaſe, ſeeing they
+<pb n="12" facs="tcp:33467:7"/> were there in ſuch numbers: to which h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> replyed, no, but that they were the Pla<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of the Pallace, and ſo annoyed it, that <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King could neither eat nor ſleep in quiet <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them, although he kept many perſons <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> purpoſe to guard him and drive them aw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and that he would give half the Reven<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of his Kingdom to be rid of them and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his Repoſe.</p>
+               <p>At this the Maſter inwardly rejoy<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> told him he had in his Ship a little Bea<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> though very rare and ſtrange, that he d<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed not, in a ſhort time, would clear the P<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lace of them. This diſcourſe paſſing <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> way of an Interpreter, came ſoon to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> King's Ear; who expreſſed much I<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thereat, and Embracing the Maſter and t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Factor, deſired them inſtantly to ſend f<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Beaſt they ſpoke off, and that if ſhe p<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>formed what they averred; he would <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lieu of her Ballaſt their Ship with S<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> and Lade it with Gold and Pearl. T<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> great offer at the firſt daſh, that the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> might be the more valued, and the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more deſirous of her, made them ſeem <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> willing to part with her; alledging, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhe was ſo uſeful in the Ship in preſer<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> their Victuals and Merchandiſe from t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> like ſpoil, that they were very loath to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:33467:7" rendition="simple:additions"/> her<g ref="char:punc">▪</g> but the King continuing his offers, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more earneſtly deſiring her, ſhe was <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the end ſent for, and from under the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of him that brought her, whilſt great <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the expectation of all that were preſent <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what manner of Creature it might <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he was caſt ſuddenly upon the Table; <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eſpying the Vermin buſie at the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers which were prepared as a ſecond feaſt, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fell upon them with ſuch fury, that bi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> off the Heads of ſome, the Legs of o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s; leaving ſome panting for Life and <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>rs quite dead: ſhe in leſs than half an <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rs ſpace killed and put them to flight, in <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a manner, that not one alive was to be <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>d in the Room. The which whilſt ſhe <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a doing, great was the pleaſure the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing and his Nobles conceived thereat, <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>mending the ſport beyond that of the <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ing the Lyons; with which Creatures <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Country abounded: ſome praiſing her <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her Tabby skin; others for her noble <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>age; and ſome again for her Lyon-like <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ntenance: when, in the mean while, <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing no more work to do; ſhe came pur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> and curling to the King and Queen as <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhe had proclaimed her own Victory. <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ch made them the more Rejoyce, eſpe<g ref="char:EOLhyphen"/>cially when the Maſter told them that ſhe
+<pb n="14" facs="tcp:33467:8"/> was with Young, and that thoſe young, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time, might furniſh the whole Coun<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſo that the King, having firſt payed for <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cargo and cauſed it to be Landed, ſe<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lieu of the Cat, Silver, Gold, P<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> Diamonds and other precious Stones i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch abundance, that the Maſter was <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>zed; and finding himſelf ſufficiently fr<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed he took his leave; and weighing Anc<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſoon after came ſafe to <hi>Black-wall.</hi> W<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>upon the Maſter and Factor with others <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Ships crew came to <hi>Mr. Fitz-warres</hi> Houſe, ſcituate in <hi>Leaden-hall-ſtreet,</hi> bri<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing with them the Gold, Pearls and Ie<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>els, <hi>&amp;c.</hi> as being too precious to be lon<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> truſted on Board: And firſt preſenting t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Bills of Lading, the Merchant was <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>derfully ſatisfied therewith: but when <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaw the Treaſure, which was not containe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therein, he grew amazed, demanding t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whom it appertained and having heard th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whole Story, as before recited; he cauſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Whittington</hi> by the Title of Maſter to be called; who, after ſome excuſes, with much cringing and baſhfulneſs, came; where he was ſaluted by the name of <hi>Mr. Whitting<g ref="char:EOLhyphen"/>ton</hi> by all preſent, and forced to ſit down<g ref="char:punc">▪</g> and when he had a while wondered what thi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtrange alteration, in carriage towards him,
+<pb n="15" facs="tcp:33467:8" rendition="simple:additions"/> ſhould mean, and made many excuſes of his <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>worthineſs, as meerly ſuppoſing they did <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> mock him: his Maſter came to him <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> told him, that what they did was in ear<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt, though he might take it otherwiſe; for th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t he was a better man in Eſtate than him<g ref="char:EOLhyphen"/>ſelf: and thereupon preſented him with the Treaſure, and told him all that he had been <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>formed; ſaying, God forbid that he ſhould <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>in from him any thing that was his. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which the poor man, overjoyed, fell down <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n his knees, and returned moſt hearty <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nks to God, that had looked upon his <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſery and taken compaſſion on him: and <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ereupon diſtributed liberally, not only to the Maſter and Sea-men, but to all his fel<g ref="char:EOLhyphen"/>l<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Servants; giving even the ridged C<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k-maid, who had ſo ſeverely uſed him, 100 l. towards her Marriage: but above <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, he remembred fair <hi>Mrs. Alice</hi> with a preſent of Pearls and Iewels, as an ac<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nowledgement of her kind offer.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="16" facs="tcp:33467:9"/>
+               <head>CHAP. IV. How <hi>Whittington</hi> married his Maſters Daughter, and was choſe Sheriff of <hi>London,</hi> and afterwards choſen the firſt time Lord Mayor: with other things that happened.</head>
+               <p>
+                  <hi>WHittington</hi> upon this great ſucceſs, being put into good Cloaths, ha<g ref="char:EOLhyphen"/>ving his Lodging changed from the Garret to the beſt Room in the houſe; began to look like himſelf: inſomuch that being a comely Perſon, from that moment fair <hi>Mrs. Alice</hi> began to caſt her Eyes upon him, and he to be careſſed by Merchants and others, abroad and at home, who were taken as much with his Perſon and modeſt diſcourſe, as with his admirable Fortune.</p>
+               <p>Long it was not e'er <hi>Mrs. Alice</hi> having diſcovered her Affections ſhe bore <hi>Whitting<g ref="char:EOLhyphen"/>ton</hi> to her Father; he propounded a Match be<g ref="char:EOLhyphen"/>tween them, which was joyfully embraced to the content of either Party: ſo that they were ſplendidly married, the Lord Mayor, Aldermen and many worthy Citizens, being at the Wedding. And now his fame ſpreading wide, by his trading in merchan<g ref="char:EOLhyphen"/>diſe, which he above all things choſe, ſince at firſt he had been ſo fortunate therein. He was pricked for Sheriff, which he, in
+<pb n="17" facs="tcp:33467:9"/> modeſty, would have refuſed to hold; offe<g ref="char:EOLhyphen"/>ring his Fine to be excuſed: but his Father-in-law reſolving to have him take upon him that honourable Truſt he complyed with his deſires, and ſo well behaved himſelf in his Office, that he ever after gained the Love of the whole City; <hi>Drewry Barratine</hi> being his Brother-Sheriff and Sir <hi>John Hudly</hi> Mayor of <hi>London,</hi> as we find it in <hi>Stow</hi> and <hi>Fabian, Anno</hi> 1493. and four years af<g ref="char:EOLhyphen"/>ter, himſelf was choſen Lord-Mayor and Knighted: and ſo well he managed that great Office, that although there were Dif<g ref="char:EOLhyphen"/>ferences and Diſcontents between the King and the Commons, Trade flouriſhed in the City in the greateſt Splendor imaginable, and Merchandiſe improved more then ever; ſo that the Commodities of all Nations flowed in upon us: And in this year of his Mayoralty, it was that the Dukes of <hi>Here<g ref="char:EOLhyphen"/>ford</hi> &amp; <hi>Norfolk</hi> were baniſhed by K. <hi>Richard</hi> the ſecond, after he had ſuſpended the Com<g ref="char:EOLhyphen"/>bate that was to be fought between them; the former for ten years and the latter for ever. So well did Sir <hi>Richard Whittington</hi> be<g ref="char:EOLhyphen"/>have himſelf in his firſt Mayoralty, that in the eighth year of the Reign of <hi>Henry</hi> the fourth, he was a ſecond time choſen Lord-Mayor; and again ſo well diſcharged his Truſt to the honour and advantage of the
+<pb n="18" facs="tcp:33467:10"/> City; that the Citizens being, as it were, enamoured of ſo good a Magiſtrate, men of great Eſtates being then ſcarce, that he was a third time choſe Lord-Mayor, in the 7th. year of the Reign of <hi>Henry</hi> the 5th. ſo that he had the honour to bear the Sword in the Reign of three Kings. And in this laſt Mayoralty, King <hi>Henry</hi> the 3<hi rend="sup">d.</hi> having conquered the greateſt part of <hi>France;</hi> re<g ref="char:EOLhyphen"/>turned into <hi>England</hi> victorious, with <hi>Kathe<g ref="char:EOLhyphen"/>rine</hi> his Queen, Daughter to <hi>Charles</hi> the <hi>French,</hi> was met on <hi>Black-heath</hi> by Sir <hi>Richard Whittington</hi> and his Brethren, the Aldermen and other prime Citizens, in gold Chains and Scarlet, to the number of 300, who had prepared Pageants and many ſplen<g ref="char:EOLhyphen"/>did devices for their Entertainment: and on St. <hi>Mtathews</hi>-day following, the Queen being ſolemnly Crowned in <hi>Weſtminſter</hi> Abbey; and the Magnificence attended by all the Dukes, Marqueſſes, Earls, Biſhops, <hi>&amp;c.</hi> Sir <hi>Richard Whittington</hi> and his Brethren the Aldermen, gave likewiſe their attendance; and taking their places at the Table of feaſting, were welcomed and in their order as highly entertained as the reſt. And all Lord-Mayors of <hi>London,</hi> have ever ſince had the honour to be at the ſolemn In<g ref="char:EOLhyphen"/>augurations of Princes; claiming it as <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight to attend, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="19" facs="tcp:33467:10" rendition="simple:additions"/>
+               <head>CHAP. V. How <hi>Whittington</hi> being a third time Lord-Mayor of <hi>London,</hi> Entertained King <hi>Henry</hi> the fifth at Dinner in <hi>Guild-hall;</hi> of the Entertainment and Satis<g ref="char:EOLhyphen"/>faction the King and his Nobles received, and other matters of note.</head>
+               <p>SIR <hi>Richard Whittington</hi> flouriſhing and abounding in Riches, beyond what can reaſonably be credited; his Eſtate likewiſe augmented by the Death of <hi>Mr. Fitzwarren</hi> his Father-in-law, who left him ſole Execu<g ref="char:EOLhyphen"/>tor. He ſoon after the Inauguration of the Queen invited the King and his Royal Conſort, together with the Ambaſſadors and Nobility of the Court to a ſplendid En<g ref="char:EOLhyphen"/>tertainment at <hi>Guild hall, London;</hi> where they vouchſafed to come and honour the City with their Preſence; and were enter<g ref="char:EOLhyphen"/>tained not only with Pageants and pompous Shows, but with all the varieties imagina<g ref="char:EOLhyphen"/>ble; with muſick and whatever might be thought pleaſing to the Royal Gueſt: and in the Preſence Chamber where the King and Queen, <hi>&amp;c.</hi> dined, the fire was made of Cedar, Cinamon and Cyprus; into which were caſt Myrrh, Frankincenſe, Nutmegs,
+<pb n="20" facs="tcp:33467:11"/> Mace, Cloves and the like; which ſo fragrant<g ref="char:EOLunhyphen"/>ly perfumed the place, that the King being wonderfully pleaſed thereat, told Sir <hi>Rich<g ref="char:EOLhyphen"/>ard,</hi> that although every thing was coſtly and delicate to his high contentment, yet he was taken with nothing more than the ſcent the fire caſt through the Apartment: to whom he humbly replyed, that it much re<g ref="char:EOLhyphen"/>joyced him that any thing was in his power to give his Majeſty ſatisfaction, or the leaſt cauſe to be pleaſed; but ſince his Highneſs had been pleaſed to praiſe that fire, he purpo<g ref="char:EOLhyphen"/>ſed, e'er he departed, to entertain him with one that ſhould give him far greater content: which the King being deſirous to prove, he went out and ſuddenly returning, brought under his arm a bundle of Writings: ſay<g ref="char:EOLhyphen"/>ing, May it pleaſe your Majeſty, I have here a Faggot, left deſignedly for this Fire, which I humble conceive will more redound to your Majeſties ſatisfaction; and thereupon open<g ref="char:EOLhyphen"/>ing the Bundle he ſaid, here is your High<g ref="char:EOLhyphen"/>neſſes ſecurity for moneys lent by the Com<g ref="char:EOLhyphen"/>pany of Mercers, to maintain your Wars in <hi>France,</hi> viz. 10000 marks; which I here <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ncel in the flames: and after it I ſend <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>is ſecurity of 1500 marks lent by the City upon the like occaſion; and next, another for 20000 marks borrowed of the Company of Grocers: a fourth for 3000 marks borrow<g ref="char:EOLhyphen"/>ed
+<pb n="21" facs="tcp:33467:11"/> of the Merchant-Taylors: a fifth for 1000 marks borrowed of the Drapers: a ſixth for 1000 mark borrowed of the Skin<g ref="char:EOLhyphen"/>ners: a ſeventh for 1000 marks borrowed of the Ironmongers: an eighth for 1000 marks borrowed of the Merchant-Staplers: a ninth for 3000 marks borrowed of the Goldſmiths: a tenth for 3000 marks bor<g ref="char:EOLhyphen"/>rowed of the Haberdaſhers: and three others for a thouſand marks, each borrowed of the Vintners, Brewers and brown Bakers: with divers others, which here I ſacrifice to the flame, due from your Majeſty to <hi>Mr. Fitz-warren</hi> my Father-in-law, deceaſed, to whom I am ſole Executor: with others likewiſe due from divers of your Nobility preſent; all which I ſacrifice to the Love and Honour I bear my Soveraign: amount<g ref="char:EOLhyphen"/>ing to the ſum of 60000 pounds ſterling. And can your Majeſty, ſaid he, deſire a fire more pleaſing? at which voluntary generoſity, the King, not being a little ſurprized, roſe from his Seat, and taking him in his Arms, ten<g ref="char:EOLhyphen"/>derly embracing him, ſaid he, I believe no King had ever ſuch a Subject: and upon the returning to his Pallace, did him all the honour imaginable; promiſing ever to e<g ref="char:EOLhyphen"/>ſteem him amongſt the firſt rank of thoſe he held his friend and wore neareſt his heart: and ſo highly ſatisfied with his magnifieent
+<pb n="22" facs="tcp:33467:12"/> Entertainment; Sir <hi>Richard Whitting<g ref="char:EOLhyphen"/>ton</hi> Lord-Mayor, carrying the Sword before the King, conducted him out of the City: and having received the thanks of the Noble-men at parting, who highly commended his ge<g ref="char:EOLhyphen"/>neroſity and greatneſs of Spirit. He re<g ref="char:EOLhyphen"/>turned to his Charge, and flouriſhing many years after; lived and dyed beloved of all men.</p>
+               <q>
+                  <l>Thus he, who riſing from a mean Eſtate,</l>
+                  <l>Was three times <hi>Londons</hi> chiefeſt magiſtrate;</l>
+                  <l>Favour'd of Princes, and belov'd of all;</l>
+                  <l>For which, him luckey <hi>Whittington</hi> we call.</l>
+               </q>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. His Deeds or Acts of Charity in Buildings and Gifts were many; the moſt material of which I ſhall not ſpare to mention.</head>
+               <p>IN the <hi>Vintry</hi> he built a Church, dedica<g ref="char:EOLhyphen"/>ting it to St. <hi>Michael;</hi> calling it <hi>Pater<g ref="char:EOLhyphen"/>noſter</hi> in the Royal; adding a College dedicated to St. <hi>Mary</hi> and an Hoſpital cal<g ref="char:EOLhyphen"/>led God's Houſe, indowing them liberally. He built likewiſe another College, which he called by his own name. And of his ſounding was the Priſon of <hi>Newgate.</hi> He added to and much repaired St. <hi>Bartholo<g ref="char:EOLhyphen"/>mew's</hi> Hoſpital: And erected a Library at
+<pb n="23" facs="tcp:33467:12"/> the <hi>Gray-Fryers, London.</hi> And built a Stone Market-houſe in the place now called the Stocks. He enlarged and paved <hi>Guild-hall,</hi> adding a Conduit to ſerve the places near it with Water: and many other things worthy of himſelf and of imitation by others.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. Of things of note that happened in his three ſeveral Mayoralties.</head>
+               <p>THE two Dukes before-mentioned were baniſhed.</p>
+               <p>
+                  <hi>Conſtantinople</hi> was taken by <hi>Mahomet</hi> the ſecond, Emperor of the <hi>Turks.</hi>
+               </p>
+               <p>A great Tempeſt of Thunder and Light<g ref="char:EOLhyphen"/>ning happened, which deſtroyed in divers places 600 Houſes and 3000 People.</p>
+               <p>
+                  <hi>William Foxly</hi> Pot-maker to the Mint in the Tower, ſlept 14 days and 15 nights, and afterwards waking it ſeemed to him that he had ſlept but one night.</p>
+               <p>Great Iuſts were held in the Town before the <hi>French</hi> Nobility taken Priſoners in <hi>France</hi> at the Battle of <hi>Azin</hi> Court.</p>
+               <p>Seven Dolphins came up the River of <hi>Thames,</hi> and played up and down till four of them were killed and the other three car<g ref="char:EOLhyphen"/>ried off by the Tyde.</p>
+               <pb n="24" facs="tcp:33467:13"/>
+               <p>A terrible and univerſal Earthquake, ac<g ref="char:EOLhyphen"/>companied with Tempeſt of Thunder and Lightning, hap'ned for the ſpace of ſix hours.</p>
+               <p>A Combat was fought before the King in <hi>Smithfield;</hi> but taken up e'er any of the parties were killed.</p>
+               <p>
+                  <hi>Paul's</hi> ſteeple was ſet on fire and burnt with Lightning, after it had been once quen<g ref="char:EOLhyphen"/>ched with Vinegar.</p>
+               <p>And thus much for famous <hi>Whittington,</hi> and what happened whilſt he filled, as her worthy praetor, the Chair of <hi>London.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+         <trailer type="illustration">
+            <figure>
+               <figDesc>depiction of vignettes from the Legend of Dick Whittington</figDesc>
+               <figure>
+                  <figDesc>depiction of Dick Whittington's cat at the court of the King of Barbary</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Mr. Fitz-warren's ship</figDesc>
+               </figure>
+               <figure>
+                  <sp>
+                     <p>Mew</p>
+                  </sp>
+                  <figDesc>depiction of Dick Whittington's cat</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of Dick Whittington, Lord Mayor of London on horseback</figDesc>
+               </figure>
+            </figure>
+         </trailer>
+      </body>
+   </text>
+</TEI>
